@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RailwayApp1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../RailwayApp/out/artifacts/RailwayApp_jar/RailwayApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
