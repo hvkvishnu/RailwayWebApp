@@ -30,7 +30,6 @@ public class StationServlet extends HttpServlet{
        PrintWriter out = resp.getWriter();
 
    }
-   //C:\Users\radha\.m2\repository\com\google\code\gson\gson\2.8.5 =>jar file location
 
 
 
